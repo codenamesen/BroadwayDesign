@@ -3,9 +3,42 @@ body{
   text-align: center;
 }
 
+/*This styles the main heading and the background-image*/
 .top {
   background-image: url(../images/the-flatiron-building.png);
+  background-size: 1400px 350px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
+/*This styles rest of the titles other than the top heading*/
+.topbanner {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.menu{
+  font-size: 18px;
+  color: white;
+  }
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
 
 .bottombanner {
   background-image: url(../images/the-flatiron-building.png);
