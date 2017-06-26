@@ -26,19 +26,29 @@ body{
 a:link {
   color: white;
 }
-
 a:visited {
   color: white;
 }
-
 a:hover {
   color: white;
 }
-
 a:active {
   color: white;
 }
 
+/*This styles the middle portion of the webpage*/
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.head {
+  font-family: 23px;
+  font-weight: bold;
+}
+.description {
+  font-size: 14px;
+}
 
 .bottombanner {
   background-image: url(../images/the-flatiron-building.png);
