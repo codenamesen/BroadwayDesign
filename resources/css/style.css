@@ -64,3 +64,7 @@ a:active {
   background-color: dimgray;
   text-align: left;
 }
+
+.footer a {
+  margin: 6px;
+}
